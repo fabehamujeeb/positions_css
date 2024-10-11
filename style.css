@@ -1,0 +1,21 @@
+/*comments*/
+div.first {
+    border: 3px solid gray;
+    position: static; 
+}
+div.second {
+    border: 3px dotted maroon;
+    position: relative bottom; 
+}
+div.third {
+    border: 3px solid navy;
+    position: fixed;
+}
+div.fourth {
+    border: 3px dotted yellow;
+    position: sticky;
+}
+div.fifth {
+    border: 3px solid black;
+    position: absolute;
+}
